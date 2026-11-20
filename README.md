@@ -10,4 +10,4 @@ Spielen: https://sarn0ld.github.io/awesome-after-hours/
 
 Rechtsklick schaut sich Dinge an. Das ist der wichtigste Klick im Spiel, und hier hat wirklich alles was Awesomes zu sagen.
 
-Basiert auf dem Build 0b26c4f des Originals. Geändert wurden die Texte der Spielfigur, die Spielfigur-Sprites und der Titelbildschirm.
+Basiert auf dem aktuell veröffentlichten Stand des Originals (mit Kapitel 3). Geändert wurden die Texte der Spielfigur, die Spielfigur-Sprites und der Titelbildschirm.
